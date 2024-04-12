@@ -1,0 +1,1 @@
+var json_cafe_3 = {"type":"FeatureCollection","name":"cafe_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","ruta":"el cafe ese"},"geometry":{"type":"Point","coordinates":[-66.906807933650384,10.483893290290645]}}]}
